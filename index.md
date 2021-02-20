@@ -5,7 +5,7 @@
 ### Project Previews
 
 [Civillians killed by police officers 2015-September 2020](/sample_page)
-
+<img src="images/SS for Github.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
