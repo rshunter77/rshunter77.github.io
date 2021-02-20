@@ -23,10 +23,8 @@ https://public.tableau.com/profile/robin.hunter1482#!/vizhome/HealthIndicatorTec
 
 ### Python Project
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Final Project for Springboard in Python.  Necessary to use several statistical concepts and a variety of Python skillsets including visualizations.
+SWC Final python.ipynb
 
 ---
 
