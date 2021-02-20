@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Project Previews
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Civillians killed by police officers 2015-September 2020](/sample_page)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Project links
 
-- [Project 1 Title](http://example.com/)
+- [Civillians killed by police officers 2015-September 2020](https://public.tableau.com/profile/robin.hunter1482#!/vizhome/FatalPoliceShootings2015-September2020/Fatalshootingsbyracecityandyear_1?publish=yes)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
